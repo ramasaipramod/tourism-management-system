@@ -57,12 +57,5 @@ Wanderlust.co is a C++ console-based tourism management system that allows custo
    - Add new important details
    - Log out
 
-## Future Enhancements
-- Implement better code organization with multiple files
-- Add more security features
-- Improve the user interface
-- Add payment processing functionality
-- Include search and filter options for packages
-
 ## Credits
 Developed as a semester 3 OOP project.
